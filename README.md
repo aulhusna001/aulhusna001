@@ -8,9 +8,7 @@
 - 🎓 Master's in Social Work
 - 🔍 Currently learning **Software Quality Assurance (SQA)**
 - 🧪 Practicing Manual Testing & Writing Professional Test Cases
-- 📊 Learning **SEO & Digital Marketing**
 - 🚀 Planning to build a **Development & Software Agency**
-- 💡 Passionate about problem-solving and continuous learning
 
 ---
 
@@ -34,7 +32,6 @@
 - 🔹 Postman (Learning)
 - 🔹 Git & GitHub
 - 🔹 Basic HTML & CSS
-- 🔹 SEO Fundamentals
 
 ---
 
@@ -52,7 +49,6 @@
 - 📌 Advanced Test Case Writing
 - 📌 API Testing with Postman
 - 📌 Automation Testing (Future Goal)
-- 📌 Technical SEO
 
 ---
 
@@ -64,9 +60,8 @@ To become a skilled **Software Quality Assurance Engineer** and help businesses 
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: yourmail@email.com
-- 🌐 Portfolio: (Add later)
+- 💼 LinkedIn: www.linkedin.com/in/asma001
+- 📧 Email: aulhusna001@email.com
 
 ---
 
